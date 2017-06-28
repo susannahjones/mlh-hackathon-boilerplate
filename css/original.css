@@ -12,8 +12,8 @@
 
 /*
  * Primary Blue: #44D5FF;
- * Dark Blue: #0F2C34;
- * Primary Pink: #FF7FA8;
+ * Orange: #E57200 (Rotunda Orange);
+ * Primary Blue: #002F6C (Jefferson Blue);
  */
 
 * {
@@ -58,7 +58,7 @@ section {
 }
 
 .hero hr {
-  border-top: 15px solid #0F2C34;
+  border-top: 15px solid #E57200;
   margin: 0;
   position: relative;
   top: -14px;
@@ -95,7 +95,7 @@ section {
 
 .hero .buttons a {
   background: #fff;
-  border: 10px solid #0F2C34;
+  border: 10px solid #E57200;
   border-radius: 40px;
   color: #0F2C34;
   display: inline;
@@ -109,7 +109,7 @@ section {
 
 .hero .buttons a:hover,
 .hero .buttons a:focus {
-  background-color: #0F2C34;
+  background-color: #E57200;
   color: #fff;
   transition: all 0.2s ease;
 }
@@ -130,7 +130,7 @@ section {
 }
 
 .about p {
-  color: #0F2C34;
+  color: #E57200;
   font-weight: 600;
   font-size: 22px;
   line-height: 1.6em;
