@@ -17,9 +17,9 @@
  */
 
 * {
-  font-family: 'Franklin Gothic';
-  font-weight: 600;
   font-color: #fff
+  font-family: 'Franklin Gothic';
+  font-weight: 600; 
 }
 
 body {
