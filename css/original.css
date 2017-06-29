@@ -53,7 +53,7 @@ section {
  */
 
 .hero {
-  background-image: url(19578542_917323155074412_1682787692_o.png) 
+  background-image: url("../images/19578542_917323155074412_1682787692_o.png") 
 /*  background-color: #002F6C; */
   min-height: 110vh;
 }
