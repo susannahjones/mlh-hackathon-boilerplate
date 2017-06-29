@@ -32,7 +32,7 @@ seo:
 event:
   name:        "Diverse-a-thonUVA"
   description: "Diverse-a-thon UVA is..."
-  date:        "27-29 October 2017"
+  date:        "October 27-29, 2017"
   location:    "Charlottesville, VA"
 
   trust_badge:
@@ -45,13 +45,13 @@ event:
       - text: "Apply"
         href: "https://diverseathonuva.typeform.com/to/bg9Zja"
       - text: "Sponsor"
-        href: "mailto:diversathonuva@gmail.com"
+        href: "mailto:tmp2bf@virginia.edu"
 
   about:
     description: >
-      Diverse-a-thonUVA is a hackathon hosted at the University of Example.
-      This is your opportunity to describe your event, what to expect, where it is & anything unique to your event.
-      Keep it straightforward, don't make it too long.
+      Diverse-a-thonUVA is a hackathon hosted at the University of Virginia.
+      ((This is your opportunity to describe your event, what to expect, where it is & anything unique to your event.
+      Keep it straightforward, don't make it too long.))
 
   # Info Sections
   info:
@@ -70,6 +70,7 @@ event:
           We can write something nice with a graphic (as above) to make the event more appealing.
 
   # Frequently asked questions.
+  #potential other questions- what activities, what can we expect, what is the center for diversity in engineering
   faq:
     - question: "What is a hackathon?"
       answer: >
@@ -83,8 +84,8 @@ event:
         Yes. Only students who are currently enrolled at a college/university or
         have graduated within the past 12 months are eligible to attend.
     - question: "Where is the event?"
-      answer: >
-        The event is being hosted at [insert venue location here].
+      answer: 
+        The event is being hosted in the Slaughter Recreation Center at the University of Virginia. Directions can be found [here](https://www.google.com/maps/place/Slaughter+Recreation+Center,+505+Edgemont+Rd,+Charlottesville,+VA+22903/@38.0348618,-78.5200301,17z/data=!3m1!4b1!4m5!3m4!1s0x89b38658533378ad:0x1f894558a05e15d2!8m2!3d38.0348685!4d-78.5178826).
     - question: "What is Major League Hacking?"
       answer: >
         Major League Hacking is [the official student hackathon league](https://mlh.io) in North America & Europe.
