@@ -20,17 +20,17 @@ tracking:
 
 # Let people connect & engage with you through social media.
 social:
-  twitter_handle: "Diverse-a-thonUVA"
+  twitter_handle: "Diverse-a-thon UVA"
 
 # This is Search Engine Optimization. It'll help your website look better on search.
 seo:
-  title:       "DiverseathonUVA | 27-29 October 2017"
+  title:       "Diverseathon UVA | 27-29 October 2017"
   description: "Diverseathon UVA is..."
   image:       "https://prime.mlh.io/img/logos/mlh-prime-color.svg"
 
 # Event information.
 event:
-  name:        "Diverse-a-thonUVA"
+  name:        "Diverse-a-thon UVA"
   description: "Diverse-a-thon UVA is..."
   date:        "October 27-29, 2017"
   location:    "Charlottesville, VA"
