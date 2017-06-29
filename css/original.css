@@ -88,7 +88,7 @@ section {
 
 .hero .wrapper h3 {
   font-size: 20px;
-  font-color: #fff;
+  color: #fff;
   font-weight: 200;
   padding-bottom: 35px;
 }
@@ -134,8 +134,7 @@ section {
 }
 
 .about p {
-  color: #E57200;
-  font-color: #fff;
+  color: #fff;
   font-weight: 600;
   font-size: 22px;
   line-height: 1.6em;
@@ -153,6 +152,7 @@ section {
 
 .info {
   background-color: #002F6C;
+  color: #fff;
   margin-top: 15px;
   padding: 100px 0;
   position: relative;
@@ -165,7 +165,6 @@ section {
 .info .item h1 {
   font-family: 'Montserrat';
   font-size: 45px;
-  font-color: #fff;
   font-weight: 700;
   margin: 20px 0;
 }
