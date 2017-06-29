@@ -134,6 +134,7 @@ section {
 
 .about p {
   color: #E57200;
+  font-color: #fff;
   font-weight: 600;
   font-size: 22px;
   line-height: 1.6em;
@@ -163,6 +164,7 @@ section {
 .info .item h1 {
   font-family: 'Montserrat';
   font-size: 45px;
+  font-color: #fff;
   font-weight: 700;
   margin: 20px 0;
 }
@@ -173,6 +175,7 @@ section {
 
 .info .item p {
   font-size: 20px;
+  font-color: #fff;
 }
 
 /*
