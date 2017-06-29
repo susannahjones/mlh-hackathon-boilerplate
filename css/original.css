@@ -17,7 +17,7 @@
  */
 
 * {
-  font-color: #fff
+  color: #fff
   font-family: 'Franklin Gothic';
   font-weight: 600; 
 }
@@ -73,7 +73,7 @@ section {
   background: #002F6C;
   background: rgba(255, 255, 255, .3);
   display: inline-block;
-  font-color: #fff;
+  color: #fff;
   font-size: 60px;
   font-weight: 800;
   letter-spacing: -2px;
