@@ -6,6 +6,9 @@
 /* Open Sans Google Font */
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:600,700);
 
+/* UVA Franklin Gothic Google Font */
+@import url(https://fonts.googleapis.com/css?family=Franklin+Gothic);
+
 
 /* Montserrat Google Font */
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
@@ -18,7 +21,7 @@
 
 * {
   color: #fff
-  font-family: 'Franklin Gothic';
+  font-family: Franklin Gothic;
   font-weight: 600; 
 }
 
@@ -74,7 +77,7 @@ section {
   background: #002F6C;
   background: rgba(255, 255, 255, .3);
   display: inline-block;
-  font-family: "Franklin Gothic";
+  font-family: Franklin Gothic;
   color: #fff;
   font-size: 60px;
   font-weight: 800;
