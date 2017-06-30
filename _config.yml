@@ -96,9 +96,7 @@ event:
     - question: "Is there a code of conduct?"
       answer: >
         Yes there is. We enforce it very strongly. You can [find it here](https://static.mlh.io/docs/mlh-code-of-conduct.pdf).
- footer:
-    message:
-      Brought to you by the Office for Diversity and Engagement and the Department of Computer Science at the University of Virginia, School of Engineering and Applied Science.
+
   # This is the message you'll receive once you've registered.
   register:
     message: >
