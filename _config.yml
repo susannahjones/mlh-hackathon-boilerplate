@@ -24,8 +24,8 @@ social:
 
 # This is Search Engine Optimization. It'll help your website look better on search.
 seo:
-  title:       "Diverseathon UVA | 27-29 October 2017"
-  description: "Diverseathon UVA is..."
+  title:       "Diverse-a-thon UVA | 27-29 October 2017"
+  description: "Diverse-a-thon UVA is..."
   image:       "https://prime.mlh.io/img/logos/mlh-prime-color.svg"
 
 # Event information.
@@ -49,9 +49,12 @@ event:
 
   about:
     description: >
-      Diverse-a-thonUVA is a hackathon hosted at the University of Virginia.
-      ((This is your opportunity to describe your event, what to expect, where it is & anything unique to your event.
-      Keep it straightforward, don't make it too long.))
+      Diversity is not about difference or deficits. 
+      We define diversity as excellence expressing itself through the intersection of perspectives and lived experiences. 
+      So why does it matter? Where do technology and diversity converge? How can we use technology to advance issues in diversity?
+      What can YOU invent to answer these questions? Diverse-a-thon UVA seeks to take hackathons to a new level through an event 
+      filled with perspective changing moments. From workshops and talks by the most prominent thought leaders in diversity, 
+      to participants filled to the brim with excellence and passion, we're excited to host you at The University of Virginia. 
 
   # Info Sections
   info:
@@ -93,7 +96,9 @@ event:
     - question: "Is there a code of conduct?"
       answer: >
         Yes there is. We enforce it very strongly. You can [find it here](https://static.mlh.io/docs/mlh-code-of-conduct.pdf).
-
+ footer:
+    message:
+      Brought to you by the Office for Diversity and Engagement and the Department of Computer Science at the University of Virginia, School of Engineering and Applied Science.
   # This is the message you'll receive once you've registered.
   register:
     message: >
