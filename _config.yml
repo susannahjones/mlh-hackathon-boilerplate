@@ -57,13 +57,13 @@ event:
       - image: "images/image1.png"
         title: "GUEST SPEAKERS."
         description: >
-          At the Diverse-a-thon, you can expect tech talks from UVA Professors, professionals, and more on a variety of topics.
+          At the Diverse-a-thon, you can expect tech talks from UVA Professors, professionals, and more on a variety of topics. We will also have a guest speaker who is also an inventor and wants to change the world.
       - image: "images/image2.png"
-        title: "BUILD."
+        title: "ROOM TO BUILD."
         description: >
-          We can write something nice with a graphic (as above) to make the event more appealing.
-      - image: "images/image3.p
-        title: "SHARE."
+          The event will be held in the Slaughter Recreation Building at UVA, with plenty of room to explore, learn, and collaborate.
+      - image: "images/image3.png"
+        title: "GREAT PRIZES."
         description: >
           We can write something nice with a graphic (as above) to make the event more appealing.
 
