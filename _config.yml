@@ -60,14 +60,14 @@ event:
   info:
     sections:
       - image: "images/image1.png"
-        title: "LEARN."
+        title: "GUEST SPEAKERS."
         description: >
-          We can write something nice with a graphic (as above) to make the event more appealing.
+          At the Diverse-a-thon, you can expect tech talks from UVA Professors, professionals, and more on a variety of topics.
       - image: "images/image2.png"
         title: "BUILD."
         description: >
           We can write something nice with a graphic (as above) to make the event more appealing.
-      - image: "images/image3.png"
+      - image: "images/image3.p
         title: "SHARE."
         description: >
           We can write something nice with a graphic (as above) to make the event more appealing.
@@ -75,24 +75,19 @@ event:
   # Frequently asked questions.
   #potential other questions- what activities, what can we expect, what is the center for diversity in engineering
   faq:
-    - question: "What is a hackathon?"
+    - question: "What is a hackathon? I've never coded before, so is this an event for me?"
       answer: >
-        A hackathon is an invention marathon. Students come together to build cool
-        software & hardware hacks over 24-48 hours. It's [very beginner friendly](https://medium.com/@tfogo/hackathons-are-for-beginners-77a9c9c0e000#.cj21niskl).
+        MLH defines hackathon as 'invention marathon'. At the diverse-athon, there will be guest lectures, food, prizes, mentors, and more! Students come together to build cool
+        software & hardware hacks over 24-48 hours. It's [very beginner friendly](https://medium.com/@tfogo/hackathons-are-for-beginners-77a9c9c0e000#.cj21niskl). If you've got an idea and willingness to learn, this event is for you!
     - question: "How much does it cost?"
       answer: >
-        Nothing. Attending a hackathon is free.
+        This event will be free, courtesy of the Office for Diversity and Engagement and the Department of Computer Science at the University of Virginia.
     - question: "Do I need to be a student to attend?"
       answer: >
-        Yes. Only students who are currently enrolled at a college/university or
-        have graduated within the past 12 months are eligible to attend.
+        This event is open to college graduate and undergraduate students, of all ages and backgrounds. 
     - question: "Where is the event?"
       answer: 
         The event is being hosted in the Slaughter Recreation Center at the University of Virginia. Directions can be found [here](https://www.google.com/maps/place/Slaughter+Recreation+Center,+505+Edgemont+Rd,+Charlottesville,+VA+22903/@38.0348618,-78.5200301,17z/data=!3m1!4b1!4m5!3m4!1s0x89b38658533378ad:0x1f894558a05e15d2!8m2!3d38.0348685!4d-78.5178826).
-    - question: "What is Major League Hacking?"
-      answer: >
-        Major League Hacking is [the official student hackathon league](https://mlh.io) in North America & Europe.
-        We work with over 200 Member Events and empower over 70,000 students every year.
     - question: "Is there a code of conduct?"
       answer: >
         Yes there is. We enforce it very strongly. You can [find it here](https://static.mlh.io/docs/mlh-code-of-conduct.pdf).
