@@ -49,12 +49,7 @@ event:
 
   about:
     description: >
-      Diversity is not about difference or deficits. 
-      We define diversity as excellence expressing itself through the intersection of perspectives and lived experiences. 
-      So why does it matter? Where do technology and diversity converge? How can we use technology to advance issues in diversity?
-      What can YOU invent to answer these questions? Diverse-a-thon UVA seeks to take hackathons to a new level through an event 
-      filled with perspective changing moments. From workshops and talks by the most prominent thought leaders in diversity, 
-      to participants filled to the brim with excellence and passion, we're excited to host you at The University of Virginia. 
+     We define diversity as excellence expressing itself through the intersection of perspectives and lived experiences. Where do technology and diversity converge? How can we use technology to advance issues in diversity? What can YOU invent to answer these questions? Diverse-a-thon UVA seeks to take hackathons to a new level through an event filled with perspective-changing moments. From workshops and talks by the most prominent thought leaders in diversity, to participants filled to the brim with excellence and passion, we're excited to host you at The University of Virginia.
 
   # Info Sections
   info:
@@ -74,23 +69,44 @@ event:
 
   # Frequently asked questions.
   #potential other questions- what activities, what can we expect, what is the center for diversity in engineering
+  
   faq:
     - question: "What is a hackathon? I've never coded before, so is this an event for me?"
       answer: >
-        MLH defines hackathon as 'invention marathon'. At the diverse-athon, there will be guest lectures, food, prizes, mentors, and more! Students come together to build cool
+        [MLH](mlh.io) defines hackathon as 'invention marathon'. At the Diverse-athon, there will be guest lectures, food, prizes, mentors, and more! Students come together to build cool
         software & hardware hacks over 24-48 hours. It's [very beginner friendly](https://medium.com/@tfogo/hackathons-are-for-beginners-77a9c9c0e000#.cj21niskl). If you've got an idea and willingness to learn, this event is for you!
+    - question: "What is different about this hackathon?"
+      answer: 
+        The Diverse-a-thon is focused on real-life real-time problem solving. Instead of inventing for inventing's sake, we want hackers to create something that will make the world a better place.
+    - question: "Are you sure it's for beginners?"
+      answer: >
+        Yes!
+    - question: "How many members can I have on my team?"
+      answer: >
+        You may have up to four members. If you'd like to work alone on a solo hack, you are also more than welcome to. 
+    - question: "Will I fit in?"
+      answer: >
+        Yes! We anticipate that students from different schools, backgrounds, and skills, from beginners to experienced hackers will be attending. If you don't have a team in mind, there will be team building activities. 
     - question: "How much does it cost?"
       answer: >
-        This event will be free, courtesy of the Office for Diversity and Engagement and the Department of Computer Science at the University of Virginia.
-    - question: "Do I need to be a student to attend?"
+        This event (including workshops, speakers, and food) will be free, courtesy of the Office for Diversity and Engagement and the Department of Computer Science at the University of Virginia. We do ask that you [pre-register](https://diverseathonuva.typeform.com/to/bg9Zja) as soon as possible so that we can provide enough food for attendees.
+   - question: "Do I need to be a student to attend?"
       answer: >
         This event is open to college graduate and undergraduate students, of all ages and backgrounds. 
+    - question: "Will travel costs be covered?"
+      answer: > We will be providing some busses across the east coast, and are hoping to be able to cover a portion of travel costs. Stay tuned for more updates. 
+    - question: "What do I need to bring?"
+      answer: >
+        All you will need is willingness to learn, a laptop/charger, a sleeping bag, a pillow, and a few ideas! 
     - question: "Where is the event?"
       answer: 
-        The event is being hosted in the Slaughter Recreation Center at the University of Virginia. Directions can be found [here](https://www.google.com/maps/place/Slaughter+Recreation+Center,+505+Edgemont+Rd,+Charlottesville,+VA+22903/@38.0348618,-78.5200301,17z/data=!3m1!4b1!4m5!3m4!1s0x89b38658533378ad:0x1f894558a05e15d2!8m2!3d38.0348685!4d-78.5178826).
+        The event is being hosted in the Slaughter Recreation Center at the University of Virginia. Directions can be found [here](https://www.google.com/maps/place/Slaughter+Recreation+Center,+505+Edgemont+Rd,+Charlottesville,+VA+22903/@38.0348618,-78.5200301,17z/data=!3m1!4b1!4m5!3m4!1s0x89b38658533378ad:0x1f894558a05e15d2!8m2!3d38.0348685!4d-78.5178826). We will be providing rooms to sleep in, but we encourage you to bring a sleeping bag and pillow. The university will not be providing a place to stay Friday night, however, but there are many [places](https://www.tripadvisor.com/Hotels-g57592-Charlottesville_Virginia-Hotels.html) to stay in Charlottesville. Friday night is independent and we will not have lodging but there are so many places to stay in Charlottesville)
     - question: "Is there a code of conduct?"
       answer: >
         Yes there is. We enforce it very strongly. You can [find it here](https://static.mlh.io/docs/mlh-code-of-conduct.pdf).
+    - questin: "How do I regiester?"
+      answer: > 
+        We are currently [accepting pre-registration forms](https://diverseathonuva.typeform.com/to/bg9Zja). We encourage you to apply as soon as possible. Once you've applied, stay tuned for more information. 
 
   # This is the message you'll receive once you've registered.
   register:
