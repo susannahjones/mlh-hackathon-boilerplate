@@ -90,7 +90,7 @@ event:
     - question: "How much does it cost?"
       answer: >
         This event (including workshops, speakers, and food) will be free, courtesy of the Office for Diversity and Engagement and the Department of Computer Science at the University of Virginia. We do ask that you [pre-register](https://diverseathonuva.typeform.com/to/bg9Zja) as soon as possible so that we can provide enough food for attendees.
-   - question: "Do I need to be a student to attend?"
+    - question: "Do I need to be a student to attend?"
       answer: >
         This event is open to college graduate and undergraduate students, of all ages and backgrounds. 
     - question: "Will travel costs be covered?"
@@ -104,7 +104,7 @@ event:
     - question: "Is there a code of conduct?"
       answer: >
         Yes there is. We enforce it very strongly. You can [find it here](https://static.mlh.io/docs/mlh-code-of-conduct.pdf).
-    - questin: "How do I regiester?"
+    - question: "How do I regiester?"
       answer: > 
         We are currently [accepting pre-registration forms](https://diverseathonuva.typeform.com/to/bg9Zja). We encourage you to apply as soon as possible. Once you've applied, stay tuned for more information. 
 
