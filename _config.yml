@@ -31,12 +31,12 @@ seo:
 # Event information.
 event:
   name:        "Diverse-a-thon UVA"
-  description: "Diverse-a-thon UVA is..."
+  description: "DIVERSE-A-THON | UVA"
   date:        "October 27-29, 2017"
   location:    "Charlottesville, VA"
 
   trust_badge:
-    year:   "2017"  # season year
+    year:   "2018"  # season year
     region: "eu"    # "na" or "eu"
     color:  "white" # "white", "black", "gray", "red", "blue" or "yellow"
 
