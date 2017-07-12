@@ -25,7 +25,7 @@ social:
 # This is Search Engine Optimization. It'll help your website look better on search.
 seo:
   title:       "Diverse-a-thon UVA | 27-29 October 2017"
-  description: "Diverse-a-thon UVA is..."
+  description: "DIVERSE-A-THON | UVA "
   image:       "https://prime.mlh.io/img/logos/mlh-prime-color.svg"
 
 # Event information.
@@ -57,15 +57,15 @@ event:
       - image: "images/image1.png"
         title: "GUEST SPEAKERS."
         description: >
-          At the Diverse-a-thon, you can expect tech talks from UVA Professors, professionals, and more on a variety of topics. We will also have a guest speaker who is also an inventor and wants to change the world.
+          At the Diverse-a-thon, you can expect tech talks and workshops from UVA Professors, professionals, and thought leaders on a variety of topics. We will also have a very special guest who just might want to Save the World. 
       - image: "images/image2.png"
         title: "ROOM TO BUILD."
         description: >
-          The event will be held in the Slaughter Recreation Building at UVA, with plenty of room to explore, learn, and collaborate.
+          The event will be held in the Slaughter Recreation Center at UVA, with plenty of room to explore, learn, and collaborate. Its location on grounds will also allow you to experience the history and magic of a real UNESCO world heritage site. 
       - image: "images/image3.png"
         title: "GREAT PRIZES."
         description: >
-          We can write something nice with a graphic (as above) to make the event more appealing.
+          Let's not forget about the thousands of dollars in prizes up for grabs provided by our sponsors, partners, and us. We will have a wide array of categories and competitions, and a whole bunch of swag so nobody leaves empty handed. 
 
   # Frequently asked questions.
   #potential other questions- what activities, what can we expect, what is the center for diversity in engineering
@@ -101,11 +101,11 @@ event:
         All you will need is willingness to learn, a laptop/charger, a sleeping bag, a pillow, and a few ideas! 
     - question: "Where is the event?"
       answer: >
-        The event is being hosted in the Slaughter Recreation Center at the University of Virginia. Directions can be found [here](https://www.google.com/maps/place/Slaughter+Recreation+Center,+505+Edgemont+Rd,+Charlottesville,+VA+22903/@38.0348618,-78.5200301,17z/data=!3m1!4b1!4m5!3m4!1s0x89b38658533378ad:0x1f894558a05e15d2!8m2!3d38.0348685!4d-78.5178826). We will be providing rooms to sleep in, but we encourage you to bring a sleeping bag and pillow. The university will not be providing a place to stay Friday night, however, but there are many [places](https://www.tripadvisor.com/Hotels-g57592-Charlottesville_Virginia-Hotels.html) to stay in Charlottesville. Friday night is independent and we will not have lodging but there are so many places to stay in Charlottesville)
+        The event is being hosted in the Slaughter Recreation Center at the University of Virginia. Directions can be found [here](https://www.google.com/maps/place/Slaughter+Recreation+Center,+505+Edgemont+Rd,+Charlottesville,+VA+22903/@38.0348618,-78.5200301,17z/data=!3m1!4b1!4m5!3m4!1s0x89b38658533378ad:0x1f894558a05e15d2!8m2!3d38.0348685!4d-78.5178826). We will be providing rooms to sleep in, but we encourage you to bring a sleeping bag and pillow. The university will not be providing a place to stay Friday night, however, but there are many [places](https://www.tripadvisor.com/Hotels-g57592-Charlottesville_Virginia-Hotels.html) to stay in Charlottesville. 
     - question: "Is there a code of conduct?"
       answer: >
         Yes there is. We enforce it very strongly. You can [find it here](https://static.mlh.io/docs/mlh-code-of-conduct.pdf).
-    - question: "How do I regiester?"
+    - question: "How do I register?"
       answer: > 
         We are currently [accepting pre-registration forms](https://diverseathonuva.typeform.com/to/bg9Zja). We encourage you to apply as soon as possible. Once you've applied, stay tuned for more information. 
 
